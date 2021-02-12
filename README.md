@@ -5,9 +5,10 @@
 
 ## 레벨1
 
-- [2/2일, 1일차](day1.md)
-- [2/3일, 2일차](day2.md)
-- [2/4일, 3일차](day3.md)
-- [2/8일, 5일차](day5.md)
-- [2/9일, 6일차](day6.md)
-- [2/10일, 7일차](day7.md)
+- [2/2일, 1일차](level1/day1.md)
+- [2/3일, 2일차](level1/day2.md)
+- [2/4일, 3일차](level1/day3.md)
+- [2/8일, 5일차](level1/day5.md)
+- [2/9일, 6일차](level1/day6.md)
+- [2/10일, 7일차](level1/day7.md)
+- [2/12, just](level1/day0.1.md)
